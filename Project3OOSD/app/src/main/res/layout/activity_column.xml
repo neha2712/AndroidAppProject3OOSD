@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+   >
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/relativeLayout">
+
+    <TextView
+        android:id="@+id/AgncyAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Address"
+        android:textSize="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+
+        android:id="@+id/AgncyCity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="City"
+        android:textSize="20dp"
+        android:layout_below="@+id/AgncyAddress"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+
+        android:id="@+id/AgncyProv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Province"
+        android:textSize="20dp"
+        android:paddingRight="8dp"
+        android:layout_below="@+id/AgncyCity"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+
+        android:id="@+id/AgncyPostal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Postal"
+        android:textSize="20dp"
+        android:layout_alignTop="@+id/AgncyProv"
+        android:layout_toRightOf="@+id/AgncyProv"
+        android:layout_toEndOf="@+id/AgncyProv" />
+
+    <TextView
+
+        android:id="@+id/AgncyCountry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Country"
+        android:textSize="20dp"
+        android:layout_below="@+id/AgncyPostal"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+
+        android:id="@+id/AgncyPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Phone"
+        android:textSize="20dp"
+        android:paddingTop="10dp"
+        android:textStyle="italic"
+        android:layout_below="@+id/AgncyCountry"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+
+        android:id="@+id/AgncyFax"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fax"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        android:layout_below="@+id/AgncyPhone"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
+
+    <TextView
+
+        android:id="@+id/AgencyId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID"
+        android:textSize="20dp"
+        android:visibility="invisible"
+        android:layout_below="@+id/relativeLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

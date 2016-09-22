@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidApp_BACKUP\BACKUP 6\AndroidImageSlideShow\app\libs\universal-image-loader-1.8.4-with-sources.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="eba3ec78458fcb9bdd8bb7eff1a2f6f26f8fa00a">
+        <dex dex="C:\AndroidApp_BACKUP\BACKUP 6\AndroidImageSlideShow\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.4-with-sources_9979bff7bd859d2deb263cf2fc3cad2a78ec18e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\716492\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\AndroidApp_BACKUP\BACKUP 6\AndroidImageSlideShow\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_304ba930321f5150938a29f42c58e10cdf42b170.jar" />
+    </item>
+
+</items>

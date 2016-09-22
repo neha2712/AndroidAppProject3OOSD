@@ -1,0 +1,505 @@
+[
+    {
+        "outputFile": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\indicator_tags.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1433,
+                        "endColumn": 45,
+                        "endOffset": 1474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 47,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\indicator_tags.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1480,
+                        "endColumn": 48,
+                        "endOffset": 1524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 49,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\indicator_tags.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1530,
+                        "endColumn": 50,
+                        "endOffset": 1576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 49,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\indicator_tags.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1582,
+                        "endColumn": 50,
+                        "endOffset": 1628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 62,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\indicator_tags.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 62,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 59,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\indicator_tags.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 59,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 71,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\indicator_tags.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 71,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 71,
+                    "endOffset": 510
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\indicator_tags.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 71,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 515,
+                    "endColumn": 73,
+                    "endOffset": 584
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\indicator_tags.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 73,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 589,
+                    "endColumn": 50,
+                    "endOffset": 635
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 50,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 640,
+                    "endColumn": 52,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 54,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 54,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2970,
+                    "endColumn": 57,
+                    "endOffset": 3023
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3028,
+                    "endColumn": 55,
+                    "endOffset": 3079
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3084,
+                    "endColumn": 61,
+                    "endOffset": 3141
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\indicator_tags.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 61,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3146,
+                    "endColumn": 67,
+                    "endOffset": 3209
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\indicator_tags.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 67,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3214,
+                    "endColumn": 68,
+                    "endOffset": 3278
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\indicator_tags.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 68,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3283,
+                    "endColumn": 52,
+                    "endOffset": 3331
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 52,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3336,
+                    "endColumn": 58,
+                    "endOffset": 3390
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 58,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3395,
+                    "endColumn": 56,
+                    "endOffset": 3447
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 56,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3452,
+                    "endColumn": 73,
+                    "endOffset": 3521
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 73,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3526,
+                    "endColumn": 53,
+                    "endOffset": 3575
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 53,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3580,
+                    "endColumn": 45,
+                    "endOffset": 3621
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 45,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3626,
+                    "endColumn": 60,
+                    "endOffset": 3682
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 60,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3687,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 3973
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3978,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 4133
+                },
+                "from": {
+                    "file": "C:\\AndroidApp_BACKUP\\BACKUP 6\\AndroidImageSlideShow\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
